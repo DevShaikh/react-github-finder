@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Install node.js before run this app
-command: npm init
+### Run: npm init
 
 ### `npm start`
 
